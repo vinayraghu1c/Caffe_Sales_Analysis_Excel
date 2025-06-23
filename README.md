@@ -47,11 +47,11 @@ Added the following new columns for better analysis and filtering:
 
 ---
 
-## 📸 Dashboard Screenshot
+## Dashboard Screenshot
 
 Below is the snapshot of the final dashboard created in Excel:
 
-![Dashboard Screenshot](path/to/your/dashboard-image.png)
+![Dashboard Screenshot](https://github.com/vinayraghu1c/Caffe_Sales_Analysis_Excel/blob/main/Dashboard.png)
 
 ---
 
@@ -108,7 +108,3 @@ Email - vinayraghuwanshi206@gmail.com
 LinkedIn - https://www.linkedin.com/in/vinay-raghuwanshi
 
 ---
-
-## Summary
-
-This project demonstrates advanced Excel skills, data transformation using Power Query, and clear visual storytelling through dashboards. It is an excellent representation of business intelligence applied in retail or café environments.
