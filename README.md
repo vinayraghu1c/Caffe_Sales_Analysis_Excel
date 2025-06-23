@@ -5,6 +5,8 @@ This project presents a detailed **Sales Analysis Dashboard** for a coffee shop 
 
 Developed entirely in Excel with **Pivot Tables**, **Power Query**, and **Slicers**, this interactive dashboard allows business stakeholders to understand their sales trends and top-performing products quickly.
 
+The analysis is based on approximately **150,000 transaction records** .
+
 ---
 
 ## Dataset Structure
