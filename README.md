@@ -27,6 +27,14 @@ The raw dataset contains the following columns:
 
 ---
 
+## Dataset Source
+
+This dataset was sourced from Kaggle:
+
+**[Coffee Sales Dataset on Kaggle](https://www.kaggle.com/datasets/ahmedabbas757/coffee-sales?select=Coffee+Shop+Sales.xlsx)**
+
+---
+
 ## Data Cleaning and Transformation (Power Query)
 
 Performed via **Power Query Editor** in Excel.
@@ -38,7 +46,7 @@ Performed via **Power Query Editor** in Excel.
 ### 2. Column Transformations
 Added the following new columns for better analysis and filtering:
 
-- `Size`: Extracted from `product_detail` if applicable (e.g., cup size, pack weight).
+- `Size`: Extracted from `product_detail` .
 - `Hour`: Extracted from `transaction_time` using `Time.Hour()` to analyze **hourly sales**.
 - `Month Name`: Extracted from `transaction_date` using `Date.MonthName()` for **monthly trend analysis**.
 - `Day Name`: Extracted from `transaction_date` using `Date.DayOfWeekName()` for **day-wise breakdown**.
